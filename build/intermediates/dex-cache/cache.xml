@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\Android\Exemplos-Aulas-Thiengo-Calopsita\ExemploZXingIntegration2\app\libs\core-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
+        <dex dex="D:\Workspace\Android\Exemplos-Aulas-Thiengo-Calopsita\ExemploZXingIntegration2\app\build\intermediates\pre-dexed\debug\core-2.3.0-fe26dd9a3af73c73b24cc6b2db77fba2a2888fbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Handerson\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Workspace\Android\Exemplos-Aulas-Thiengo-Calopsita\ExemploZXingIntegration2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-585f8b51e8fe45e55a117ac846a30bb4fbd0f8db.jar" />
+    </item>
+
+</items>
